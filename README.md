@@ -446,16 +446,15 @@ Found an issue? Please open a GitHub Issue with:
 ### 👨‍💻 Author
 
 **Ignacio David Stocco** (Nacho)
-- 📍 Las Heras, Mendoza, Argentina
+- 📍  Mendoza, Argentina
 - 💼 Full-Stack Developer | Data Analyst | Python Expert
 - 🔧 Tech Stack: Python, Django, SQL Server, Tableau, VS Code
 
 ### 🔗 Get In Touch
 
 - 🐙 **GitHub**: [@davidstocco2024-cell](https://github.com/davidstocco2024-cell)
-- 💼 **LinkedIn**: [Connect on LinkedIn](https://linkedin.com/in/nacho-stocco)
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
-- 🎥 **YouTube**: [Data Analytics Channel](https://youtube.com/@your-channel)
+- 💼 **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/david-stocco-35ba40278/)
+- 📧 **Email**: [your.email@example.com](dstoccoanalytics@gmail.com)
 
 ---
 
