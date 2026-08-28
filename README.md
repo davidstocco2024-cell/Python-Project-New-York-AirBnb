@@ -1,3 +1,8 @@
+## 👥 Contributors
+
+* **Brandon Enrique Eroza Torres** - (https://github.com/Brandon-dev314)
+
+
 # 🏠 Airbnb Listings EDA & Data Visualization - New York 2024
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat&logo=python)](https://www.python.org/)
